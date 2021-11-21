@@ -1,0 +1,65 @@
+*
+{
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+}
+h1{
+    font-family: 'Nova Mono', monospace;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 40px;
+    color:rgb(15, 63, 15);
+    text-align: center;
+    margin-bottom: 60px;
+
+}
+.services h3 ,.products h3{
+    font-family:monospace;
+    padding-top: 10px;
+    
+}
+.services img{
+  width:200px;
+  height: 100px;
+}
+.services,.brands{
+    margin-top: 6%;
+}
+.products,.contact{
+    margin-top: 10%;
+}
+.some_products{
+    background:rgba(247, 241, 241, 0.932); color: black;
+}
+.some_products p{
+    font-size: 24px;
+}
+.some_products img{
+    width: 300px;
+    height: 300px;
+}
+.brands img{
+    width: 200px;
+    height: 80px;
+}
+.contact_bg{
+    background-color: whitesmoke;
+}
+
+.product_category ul{
+    background-color: teal;
+}
+.product_category ul a{
+
+    color: white;
+}
+
+.cart{
+    margin-top: 30px;
+}
+.cart img{
+    width: 200px;
+    height: 200px;
+}
